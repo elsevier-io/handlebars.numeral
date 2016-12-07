@@ -1,5 +1,5 @@
 {
-  "name": "handlebars.numeral",
+  "name": "@elsevier/handlebars.numeral",
   "description": "Handlebars helpers for numeral.js and wolsey",
   "version": "0.1.2",
   "main": "handlebars.numeral.js",
