@@ -20,7 +20,7 @@
         "format"
     ],
     "dependencies": {
-        "numeral": ">0.0.0",
+        "numeral": "~1",
         "wolsey": "0.1.0"
     },
     "devDependencies": {
